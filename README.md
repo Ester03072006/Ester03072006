@@ -1,5 +1,4 @@
-boas vindas 
-meu nome e Ester
+### boas vindas, meu nome e Ester
 
 
 Estou estudando na [Alura](https://www.alura.com.br)
